@@ -1,15 +1,3 @@
-// EXAMPLE COMPONENT
-
-// USE export const
-
-// The interface declaration is not needed in a JavaScript file.
-// You can remove the following code:
-
-// interface ButtonProps {
-//   label: string
-//   onClick: () => void
-// }
-
 export const Button = ({ label, onClick }) => (
   <button
     onClick={onClick}
