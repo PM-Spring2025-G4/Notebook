@@ -7,7 +7,7 @@ export const Home: React.FC = () => {
   return (
     <div className="p-4 text-center">
       <h1 className="text-2xl font-bold text-blue-700">
-        This is A starter template for React + TS + TailwindCSS setup.
+        THIS IS OUR NOTEBOOK
       </h1>
       <Button label="Click Me" onClick={handleClick} />
     </div>
