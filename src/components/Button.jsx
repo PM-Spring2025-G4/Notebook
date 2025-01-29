@@ -13,7 +13,7 @@
 export const Button = ({ label, onClick }) => (
   <button
     onClick={onClick}
-    className="px-4 py-2 text-white bg-blue-500 rounded hover:bg-blue-700"
+    className="px-4 py-2 font-bold text-black bg-orange-400 rounded-md hover:bg-red-400"
   >
     {label}
   </button>

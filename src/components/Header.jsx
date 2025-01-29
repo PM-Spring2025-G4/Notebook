@@ -1,5 +1,3 @@
-import React from "react"
-
 export const Header = () => {
   return (
     <header className="p-5 text-center text-white bg-gray-800">
@@ -12,12 +10,15 @@ export const Header = () => {
             </a>
           </li>
           <li className="mx-4">
-            <a href="#about" className="text-white no-underline">
+            <a href="#about" className="text-white no-underline ">
               About
             </a>
           </li>
           <li className="mx-4">
-            <a href="#content" className="text-white no-underline">
+            <a
+              href="#content"
+              className="font-bold text-green-700 no-underline"
+            >
               Content
             </a>
           </li>
