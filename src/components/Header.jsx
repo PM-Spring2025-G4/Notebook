@@ -17,8 +17,8 @@ export const Header = () => {
             </a>
           </li>
           <li className="mx-4">
-            <a href="#contact" className="text-white no-underline">
-              Contact
+            <a href="#content" className="text-white no-underline">
+              Content
             </a>
           </li>
         </ul>
