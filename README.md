@@ -6,7 +6,6 @@ Welcome to the frontend template! This template provides a solid foundation for 
 
 - [React v18](https://18.react.dev/)
 - [Vite](https://vitejs.dev/) - Build tool and development server
-- [TypeScript v5](https://www.typescriptlang.org/docs/)
 - [ESLint v8](https://eslint.org)
 - [Prettier v3](https://prettier.io/)
 - [Tailwind CSS v3](https://tailwindcss.com/)
@@ -38,8 +37,8 @@ To get started with the project, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone [repository-url]
-cd [project-name]
+git clone https://github.com/PM-Spring2025-G4/Notebook
+cd Notebook
 ```
 
 2. Install dependencies:
